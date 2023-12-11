@@ -48,7 +48,10 @@ Utiliza OpenAPI y Swagger para documentar claramente la API.
 ### Código Limpio:
 Escribe código ordenado, aplicando buenas prácticas y principios SOLID.
 
-### Entregables:
+### Creatividad
+Se espera dada la descripción del problema se creen las entidades y metodos en consecuencia a lo solicitado.
+
+## Entregables:
 ### Repositorio de GitHub:
 Proporciona un enlace al repositorio de GitHub que contenga el código fuente.
 
