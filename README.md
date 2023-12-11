@@ -6,7 +6,7 @@ La empresa NUEVO SPA desea desarrollar una plataforma de gestión de tareas para
 Crear una API RESTful utilizando Spring Boot 2.5.4 que gestione usuarios y tareas, aplicando buenas prácticas, principios SOLID y utilizando las tecnologías especificadas.
 
 ## Requisitos Técnicos:
-### Java 8:
+### Java:
 - Utiliza Java 8 para la implementación.
 - Utiliza las características de Java 8, como lambdas y streams, cuando sea apropiado.
 
