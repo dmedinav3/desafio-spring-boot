@@ -1,4 +1,4 @@
-package com.previred.desafiospringboot.rest;
+package com.previred.desafiospringboot.controller;
 
 import com.previred.desafiospringboot.model.CustomUser;
 import com.previred.desafiospringboot.service.UserService;
