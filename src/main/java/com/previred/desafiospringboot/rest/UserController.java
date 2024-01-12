@@ -1,7 +1,7 @@
 package com.previred.desafiospringboot.rest;
 
 import com.previred.desafiospringboot.model.CustomUser;
-import com.previred.desafiospringboot.services.UserService;
+import com.previred.desafiospringboot.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

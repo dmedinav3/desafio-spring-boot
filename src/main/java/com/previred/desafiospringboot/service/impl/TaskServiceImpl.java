@@ -1,8 +1,8 @@
-package com.previred.desafiospringboot.services.impl;
+package com.previred.desafiospringboot.service.impl;
 
 import com.previred.desafiospringboot.model.Task;
 import com.previred.desafiospringboot.repository.TaskRepository;
-import com.previred.desafiospringboot.services.TaskService;
+import com.previred.desafiospringboot.service.TaskService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

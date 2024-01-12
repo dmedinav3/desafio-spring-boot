@@ -1,13 +1,12 @@
-package com.previred.desafiospringboot.services.impl;
+package com.previred.desafiospringboot.service.impl;
 
 import com.previred.desafiospringboot.model.Status;
 import com.previred.desafiospringboot.repository.StatusRepository;
-import com.previred.desafiospringboot.services.StatusService;
+import com.previred.desafiospringboot.service.StatusService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import javax.persistence.NoResultException;
-import javax.swing.text.html.Option;
 import javax.transaction.Transactional;
 import java.util.List;
 import java.util.Optional;

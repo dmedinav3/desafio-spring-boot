@@ -1,8 +1,8 @@
-package com.previred.desafiospringboot.services.impl;
+package com.previred.desafiospringboot.service.impl;
 
 import com.previred.desafiospringboot.model.CustomUser;
 import com.previred.desafiospringboot.repository.UserRepository;
-import com.previred.desafiospringboot.services.UserService;
+import com.previred.desafiospringboot.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

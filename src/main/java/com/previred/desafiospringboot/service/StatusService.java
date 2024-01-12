@@ -1,7 +1,6 @@
-package com.previred.desafiospringboot.services;
+package com.previred.desafiospringboot.service;
 
 import com.previred.desafiospringboot.model.Status;
-import com.previred.desafiospringboot.model.Task;
 
 import java.util.List;
 

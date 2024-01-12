@@ -1,7 +1,7 @@
 package com.previred.desafiospringboot.rest;
 
 import com.previred.desafiospringboot.model.Status;
-import com.previred.desafiospringboot.services.StatusService;
+import com.previred.desafiospringboot.service.StatusService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
